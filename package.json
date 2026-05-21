@@ -1,5 +1,5 @@
 {
-  "name": "app-conheca-o-mundo",
+  "name": "app-cotacao-moedas",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,27 +10,20 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",
-    "@react-navigation/bottom-tabs": "^7.16.1",
-    "@react-navigation/native": "^7.2.4",
-    "@react-navigation/native-stack": "^7.15.1",
-    "axios": "^1.16.1",
+    "@react-navigation/native": "^7.2.2",
+    "@react-navigation/native-stack": "^7.14.11",
+    "axios": "^1.15.2",
     "expo": "~54.0.33",
-    "expo-image-picker": "~17.0.11",
     "expo-status-bar": "~3.0.9",
-    "firebase": "^12.13.0",
+    "firebase": "^12.12.1",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-native": "0.81.5",
     "react-native-elements": "^3.4.3",
-    "react-native-gesture-handler": "~2.28.0",
-    "react-native-reanimated": "~4.1.1",
     "react-native-safe-area-context": "~5.6.0",
     "react-native-screens": "~4.16.0",
     "react-native-vector-icons": "^10.3.0",
     "react-native-web": "^0.21.0"
   },
-  "private": true,
-  "description": "Projeto desenvolvido como atividade acadêmica na disciplina de Mobile.",
-  "author": "",
-  "license": "ISC"
+  "private": true
 }
